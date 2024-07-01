@@ -31,9 +31,9 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Tutor
 
-Download / fork repository ini lalu
-PHP artisan migrate:fresh --seed
-PHP artisan serve
+- **Download / fork repository ini lalu
+- **PHP artisan migrate:fresh --seed
+- **PHP artisan serve
 
 
 ### Premium Partners
